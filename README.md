@@ -15,6 +15,6 @@ For livedemo please visit [@here](https://techxxxy.github.io/fire-up-koreanisch-
 - [Google Material Icons](https://material.io/resources/icons/) - Icon library provided by Google for modern web design.
 - [Google Fonts](https://fonts.google.com/) - Collection of open-source fonts provided by Google for use in web projects.
 - [Bootstrap](https://getbootstrap.com/) - Front-end framework for building responsive websites.
-- HTML, CSS, Vanial JavaScript
+- HTML, CSS, JavaScript
 
 ![Keyboard Screenshot](screenshots/fire-up-koreanish-alphabets.png)
