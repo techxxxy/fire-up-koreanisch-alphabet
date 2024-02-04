@@ -1,0 +1,95 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    /* or any desired width */
+    height: 100vh;
+    margin: 0;
+    color: #333;
+    margin: 0px;
+    padding: 0px;
+
+    overflow-x: auto;
+    /* Enable horizontal scrolling */
+
+}
+
+body h1 {
+    margin: 20px 0px 50px 20px;
+}
+
+.body-container {
+    margin: 20px 20px 20px 20px;
+    border: #33333314 1px solid;
+}
+
+div.language-change-group {
+    margin: 20px 0px 10px 0px;
+}
+
+p {
+    margin: 8px 0 0 0;
+}
+
+
+.target-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    border: 1px solid rgba(255, 0, 242, 0);
+    margin: 10px auto;
+    width: max-content;
+
+    font-size: 50px;
+    line-height: 60px;
+
+}
+
+#textDisplay {
+    align-self: start;
+    justify-self: left;
+    height:60px;
+    border: 1px solid rgba(137, 43, 226, 0);
+    font-family: 'Space Mono', monospace;
+}
+
+#target-vocaburary {
+    height:60px;
+    text-align: left;
+}
+
+.typing-practice-container {
+    text-align: left;
+    margin: 0 auto;
+}
+
+#german-vocaburary, #vocaburary-hint{
+    width: fit-content;
+    white-space: nowrap;
+    font-size: 60px;
+    height:60px;
+    line-height: 60px;
+    border: 1px solid rgba(0, 0, 255, 0);
+    text-align: left;
+}
+#german-vocaburary{
+    font-family: 'Space Mono', monospace;
+    text-align: left;
+}
+
+#vocaburary-hint {
+    font-size: 42px;
+    font-weight: 700;
+    padding:0px;
+    text-align: left;
+    vertical-align: baseline;
+    font-family: 'Space Mono', monospace;
+}
+
+
+
+.typing-practice-container span {
+    padding:0px;
+    font-family: 'Space Mono', monospace;
+    text-align: left;
+    border: 1px solid rgba(255, 0, 0, 0)}
