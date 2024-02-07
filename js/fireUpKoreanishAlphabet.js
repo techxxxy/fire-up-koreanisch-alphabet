@@ -106,8 +106,8 @@ const keyboardLayouts = {
 } */
 
 const words = { 
-    german: ['Banana', 'Kanal', 'Kugel', 'man','Nutella'],
-    korean: ['바나나', '카날', '쿠겔', '만', '누텔라']
+    german: ['Kino', 'Banana', 'Kanal', 'Kugel', 'man','Nutella'],
+    korean: ['키노', '바나나', '카날', '쿠겔', '만', '누텔라'],
 }
 
 const alphabets = { 
