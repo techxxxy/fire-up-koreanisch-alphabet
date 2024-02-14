@@ -1,5 +1,6 @@
 
 div.kayboard-container {
+    background-color: rgb(250, 250, 250);
     transform: scale(0.8, 0.8); /* here you can resize the whole keyboard  */
     margin: -40px 0 0 0px; /*when transformed, margine needs to be adjusted too */
     min-width: 800px;
